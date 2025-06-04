@@ -1,0 +1,49 @@
+html {
+    width:100%;
+    height: 100%;
+}
+p {
+    color: red;
+
+}
+
+a:hover{
+    font-size:32px;
+}
+
+#about{
+    background-color:lightseagreen
+}
+
+#projects{
+    background-color:blueviolet
+}
+
+#contact{
+    background-color:maroon
+}
+
+#skills{
+    background-color:azure
+}
+
+ul{
+    list-style: none;
+    text-align: center; 
+}
+
+ul li{
+    display: inline;
+}
+
+li{
+    padding-right: 40px;
+}
+
+ul li a{
+    text-decoration:none;
+}
+
+body{
+    margin:0;
+}
